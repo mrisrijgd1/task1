@@ -34,7 +34,7 @@ student=data.frame(name=c("Mridul","Srishti","Ruchi","Ankur","Krishna"),
 student$height=c(100,150,180,160,165)
 T2=data.frame(name=c("Guruji"), 
               age=c(63), class=c("2M6"), height=c(165)) 
-students=rbind(student,T3)
+students=rbind(student,T2)
 
 #Export the data frame into a CSV file students.csv.
 write.csv(T4,"C:\\Users\\srish\\Desktop\\students.csv")
@@ -43,7 +43,7 @@ write.csv(T4,"C:\\Users\\srish\\Desktop\\students.csv")
 X = read.csv("https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data", header = FALSE)
 ```
 # Screen Cast
-![Record]()
+![Record](http://g.recordit.co/3rb29BvEwZ.gif)
 
 # Authors
 - Mridul
