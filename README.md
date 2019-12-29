@@ -1,6 +1,6 @@
 # Introduction
 This is a task from Google Code-In.
-Here you learn how to read and write a csv file.
+Here you learn how to read and write a csv data.
 
 # Requirements
 - R
@@ -11,9 +11,9 @@ Here you learn how to read and write a csv file.
 ```
 #Task1
 
-#Reading and writing CSV files
+#Reading and writing CSV Data
 
-#Create a CSV File called test.csv. 
+#Create a CSV File called test.csv 
 Ex.
 ID, Name
 1, Mridul
